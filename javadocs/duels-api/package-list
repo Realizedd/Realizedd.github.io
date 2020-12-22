@@ -8,6 +8,7 @@ me.realized.duels.api.event.match
 me.realized.duels.api.event.queue
 me.realized.duels.api.event.queue.sign
 me.realized.duels.api.event.request
+me.realized.duels.api.event.spectate
 me.realized.duels.api.event.user
 me.realized.duels.api.extension
 me.realized.duels.api.kit
@@ -15,4 +16,5 @@ me.realized.duels.api.match
 me.realized.duels.api.queue
 me.realized.duels.api.queue.sign
 me.realized.duels.api.request
+me.realized.duels.api.spectate
 me.realized.duels.api.user
