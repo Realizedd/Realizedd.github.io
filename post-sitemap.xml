@@ -9,8 +9,16 @@
 
 
     <url>
-        <loc>https://realized.me/reflection/23-02-18/</loc>
-        <lastmod>2023-02-18T14:55:07.052Z</lastmod>
+        <loc>https://realized.me/reflection/2023-02-19/</loc>
+        <lastmod>2023-02-21T13:51:32.816Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://realized.me/reflection/2023-02-18/</loc>
+        <lastmod>2023-02-21T13:35:15.785Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

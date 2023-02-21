@@ -15,17 +15,17 @@
         <link rel="icon" href="https://realized.me/assets/images/favicon.ico">
     
     
-    <script type="application/ld+json">{"@context":"http://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jungwoo Im (임정우)","sameAs":["https://github.com/realizedd","https://www.linkedin.com/in/jungwoo-im/","mailto:TheMCman12@gmail.com","http://discord.realized.me"],"image":"profile.png"},"articleBody":"Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.\n\nThe firewall caused my remote workspace program to connect to the software company’s relay server instead of establishing a direct connection between the two machines. In hopes of reducing latency, I spent the whole day trying to set up a TURN relay server on my machine using coturn, which failed for reasons I’m yet to figure out. When I was just about to give up, I accidentally attempted to create a direct connection on port 443 before booting up the TURN server, and boom! The connection was successfully established. As simple as that.\nIt turned out that the firewall had port 443 open for UDP all along… 😢 All I had to do was simply modify the connection port to 443 and mask the packets as HTTPS for the direct connection.\nAlthough a lot of hours could’ve been saved if I had given port 443 a try earlier, my efforts were not in vain as I learned a lot about networking in general during the process. Not to mention that the latency is no more!\n","dateCreated":"2023-02-18T22:15:11+09:00","dateModified":"2023-02-18T23:55:07+09:00","datePublished":"2023-02-18T22:15:11+09:00","description":"Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.","headline":"[23.02.18] Long live port 443!","image":[],"mainEntityOfPage":{"@type":"WebPage","@id":"https://realized.me/reflection/23-02-18/"},"publisher":{"@type":"Organization","name":"Jungwoo Im (임정우)","sameAs":["https://github.com/realizedd","https://www.linkedin.com/in/jungwoo-im/","mailto:TheMCman12@gmail.com","http://discord.realized.me"],"image":"profile.png","logo":{"@type":"ImageObject","url":"profile.png"}},"url":"https://realized.me/reflection/23-02-18/","keywords":"coturn, TURN, networking"}</script>
-    <meta name="description" content="Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.">
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Jungwoo Im (임정우)","sameAs":["https://github.com/realizedd","https://www.linkedin.com/in/jungwoo-im/","mailto:TheMCman12@gmail.com","http://discord.realized.me"],"image":"profile.png"},"articleBody":"Daily Reflection\nToday, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.\nThe firewall caused my remote workspace program to connect to the software company’s relay server instead of establishing a direct connection between the two machines. In hopes of reducing latency, I spent the whole day trying to set up a TURN relay server on my machine using coturn, which failed for reasons I’m yet to figure out. When I was just about to give up, I accidentally attempted to create a direct connection on port 443 before booting up the TURN server, and boom! The connection was successfully established. As simple as that.\nIt turned out that the firewall had port 443 open for UDP all along… 😢 All I had to do was simply modify the connection port to 443 and mask the packets as HTTPS for the direct connection.\nAlthough a lot of hours could’ve been saved if I had given port 443 a try earlier, my efforts were not in vain as I learned a lot about networking in general during the process. Not to mention that the latency is no more!\n","dateCreated":"2023-02-18T22:15:11+09:00","dateModified":"2023-02-21T22:35:15+09:00","datePublished":"2023-02-18T22:15:11+09:00","description":"","headline":"[23.02.18] Long live port 443!","image":[],"mainEntityOfPage":{"@type":"WebPage","@id":"https://realized.me/reflection/2023-02-18/"},"publisher":{"@type":"Organization","name":"Jungwoo Im (임정우)","sameAs":["https://github.com/realizedd","https://www.linkedin.com/in/jungwoo-im/","mailto:TheMCman12@gmail.com","http://discord.realized.me"],"image":"profile.png","logo":{"@type":"ImageObject","url":"profile.png"}},"url":"https://realized.me/reflection/2023-02-18/","keywords":"coturn, TURN, networking"}</script>
+    <meta name="description" content="Daily Reflection Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks. The firewall caused my remote workspace program to connect to the softw">
 <meta property="og:type" content="blog">
 <meta property="og:title" content="[23.02.18] Long live port 443!">
-<meta property="og:url" content="https://realized.me/reflection/23-02-18/index.html">
+<meta property="og:url" content="https://realized.me/reflection/2023-02-18/index.html">
 <meta property="og:site_name" content="Jungwoo Im">
-<meta property="og:description" content="Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.">
+<meta property="og:description" content="Daily Reflection Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks. The firewall caused my remote workspace program to connect to the softw">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8">
 <meta property="article:published_time" content="2023-02-18T13:15:11.000Z">
-<meta property="article:modified_time" content="2023-02-18T14:55:07.052Z">
+<meta property="article:modified_time" content="2023-02-21T13:35:15.785Z">
 <meta property="article:author" content="Jungwoo Im (임정우)">
 <meta property="article:tag" content="coturn">
 <meta property="article:tag" content="TURN">
@@ -64,7 +64,7 @@
         
     
 
-    <link rel="canonical" href="https://realized.me/reflection/23-02-18/">
+    <link rel="canonical" href="https://realized.me/reflection/2023-02-18/">
 
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
 </head>
@@ -197,7 +197,7 @@
         <div class="post-meta">
     <time datetime="2023-02-18T22:15:11+09:00">
 	
-		    Feb 18, 2023
+		    Saturday, Feb 18, 2023
     	
     </time>
     
@@ -215,8 +215,8 @@
     
     <div class="post-content markdown">
         <div class="main-content-wrap">
-            <p>Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.</p>
-<span id="more"></span>
+            <h2 id="Daily-Reflection">Daily Reflection</h2>
+<p>Today, I finally managed to bypass an insanely strict firewall that gave me struggles for the past three weeks.</p>
 <p>The firewall caused my remote workspace program to connect to the software company’s relay server instead of establishing a direct connection between the two machines. In hopes of reducing latency, I spent the whole day trying to set up a TURN relay server on my machine using <strong><a target="_blank" rel="external nofollow noopener noreferrer" href="https://github.com/coturn/coturn">coturn</a></strong>, which failed for reasons I’m yet to figure out. When I was just about to give up, I accidentally attempted to create a direct connection on port 443 before booting up the TURN server, and boom! The connection was successfully established. As simple as that.</p>
 <p>It turned out that the firewall had port 443 open for UDP all along… <span class="github-emoji"><span>😢</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f622.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span> All I had to do was simply modify the connection port to 443 and mask the packets as HTTPS for the direct connection.</p>
 <p>Although a lot of hours could’ve been saved if I had given port 443 a try earlier, my efforts were not in vain as I learned a lot about networking in general during the process. Not to mention that the latency is no more!</p>
@@ -241,8 +241,9 @@
         <ul class="post-actions post-action-nav">
             <li class="post-action">
                 
-                    <a class="post-action-btn btn btn--disabled" aria-hidden="true">
-                        
+                    
+                <a class="post-action-btn btn btn--default tooltip--top" href="/reflection/2023-02-19/" data-tooltip="[23.02.19] Setting Goals" aria-label="PREVIOUS: [23.02.19] Setting Goals">
+                    
                         <i class="fa fa-angle-left" aria-hidden="true"></i>
                         <span class="hide-xs hide-sm text-small icon-ml">PREVIOUS</span>
                     </a>
@@ -306,8 +307,9 @@
         <ul class="post-actions post-action-nav">
             <li class="post-action">
                 
-                    <a class="post-action-btn btn btn--disabled" aria-hidden="true">
-                        
+                    
+                <a class="post-action-btn btn btn--default tooltip--top" href="/reflection/2023-02-19/" data-tooltip="[23.02.19] Setting Goals" aria-label="PREVIOUS: [23.02.19] Setting Goals">
+                    
                         <i class="fa fa-angle-left" aria-hidden="true"></i>
                         <span class="hide-xs hide-sm text-small icon-ml">PREVIOUS</span>
                     </a>
