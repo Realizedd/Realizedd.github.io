@@ -9,8 +9,8 @@
 
 
     <url>
-        <loc>https://realized.me/reflection/2023-week-8/</loc>
-        <lastmod>2023-02-25T23:09:18.648Z</lastmod>
+        <loc>https://realized.me/goals/2023-week-9/</loc>
+        <lastmod>2023-02-26T14:45:16.054Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -18,7 +18,15 @@
 
     <url>
         <loc>https://realized.me/goals/2023-week-8/</loc>
-        <lastmod>2023-02-25T10:41:42.291Z</lastmod>
+        <lastmod>2023-02-26T13:52:52.252Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://realized.me/reflection/2023-week-8/</loc>
+        <lastmod>2023-02-26T13:42:17.207Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
