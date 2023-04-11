@@ -9,8 +9,24 @@
 
 
     <url>
+        <loc>https://realized.me/goals/2023-week-15/</loc>
+        <lastmod>2023-04-11T13:36:02.003Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://realized.me/reflection/2023-week-14/</loc>
+        <lastmod>2023-04-11T13:29:56.835Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://realized.me/goals/2023-april/</loc>
-        <lastmod>2023-04-07T14:06:09.963Z</lastmod>
+        <lastmod>2023-04-11T13:02:51.156Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
