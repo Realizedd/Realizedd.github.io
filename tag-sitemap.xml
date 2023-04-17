@@ -4,42 +4,49 @@
 
     <url>
         <loc>https://realized.me/tags/school/</loc>
-        <lastmod>2023-04-11T13:36:02.003Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://realized.me/tags/ersp/</loc>
-        <lastmod>2023-04-11T13:36:02.003Z</lastmod>
+        <lastmod>2023-04-17T00:56:39.367Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://realized.me/tags/interview-preparation/</loc>
-        <lastmod>2023-04-11T13:29:56.835Z</lastmod>
+        <lastmod>2023-04-17T00:56:39.367Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://realized.me/tags/algorithms/</loc>
-        <lastmod>2023-04-11T13:29:56.835Z</lastmod>
+        <lastmod>2023-04-17T00:56:39.367Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://realized.me/tags/mathematics/</loc>
-        <lastmod>2023-04-11T13:02:51.156Z</lastmod>
+        <loc>https://realized.me/tags/ersp/</loc>
+        <lastmod>2023-04-17T00:49:49.221Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>https://realized.me/tags/military/</loc>
-        <lastmod>2023-04-01T14:47:12.595Z</lastmod>
+        <lastmod>2023-04-17T00:49:49.221Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://realized.me/tags/minecraft/</loc>
+        <lastmod>2023-04-17T00:49:49.221Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://realized.me/tags/mathematics/</loc>
+        <lastmod>2023-04-15T08:43:34.787Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -74,13 +81,6 @@
 
     <url>
         <loc>https://realized.me/tags/spigotmc/</loc>
-        <lastmod>2023-03-19T13:59:45.278Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://realized.me/tags/minecraft/</loc>
         <lastmod>2023-03-19T13:59:45.278Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
