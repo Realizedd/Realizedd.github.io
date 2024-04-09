@@ -19,15 +19,15 @@ This is a quick section for [Lab 1](https://canvas.ucsd.edu/courses/54609/assign
 ### Checklist
 
 Here are the things I'm supposed to be using for the lab:
-[x] ~~Headings~~
-[ ] **Styling** *text*
-[ ] Quoting text
-[ ] Quoting code
-[ ] External Links
-[ ] Section links
-[ ] Relative links
-[ ] Ordered and Unordered Lists
-[ ] Task lists
+- [x] ~~Headings~~
+- [ ] **Styling** *text*
+- [ ] Quoting text
+- [ ] Quoting code
+- [ ] External Links
+- [ ] Section links
+- [ ] Relative links
+- [ ] Ordered and Unordered Lists
+- [ ] Task lists
 
 Here's a random ordered & unordered list:
 1. a
