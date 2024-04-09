@@ -9,11 +9,13 @@ This is a quick section for [Lab 1](https://canvas.ucsd.edu/courses/54609/assign
 ### Screenshots
 
 > Click on the link to directly go to the file.
+
 [Screenshot of command line git transactions](screenshots/Screenshot%202024-04-09%20at%209.03.26 AM.png)
 ![](screenshots/Screenshot%202024-04-09%20at%209.03.26 AM.png)
 
+> Click on the link to directly go to the file.
+
 [Screenshot of staged commit in VS Code](screenshots/Screenshot%202024-04-09%20at%209.08.24 AM.png)
-![]
 ![](screenshots/Screenshot%202024-04-09%20at%209.08.24 AM.png)
 
 ### Checklist
