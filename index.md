@@ -1,28 +1,41 @@
-# Heading 1
+# Hello! Welcome to my website.
 
-## Heading 2
+## Introduction
+Hi! I'm Jungwoo, a student majoring in CS @ UCSD.
 
-### Heading 3
+## Lab
+This is a quick section for [Lab 1](https://canvas.ucsd.edu/courses/54609/assignments/778834) of `CSE 110`. Check out the [Screenshots](#screenshots) section for more information.
 
-**Bold text**
+### Screenshots
 
-*Italic text*
+> Click on the link to directly go to the file.
+[Screenshot of command line git transactions](screenshots/Screenshot%202024-04-09%20at%209.03.26 AM.png)
+![](screenshots/Screenshot%202024-04-09%20at%209.03.26 AM.png)
 
-~~Strikethrough text~~
+[Screenshot of staged commit in VS Code](screenshots/Screenshot%202024-04-09%20at%209.08.24 AM.png)
+![]
+![](screenshots/Screenshot%202024-04-09%20at%209.08.24 AM.png)
 
-> Blockquote
+### Checklist
 
-- List item 1
-- List item 2
-- List item 3
+Here are the things I'm supposed to be using for the lab:
+[x] ~~Headings~~
+[ ] **Styling** *text*
+[ ] Quoting text
+[ ] Quoting code
+[ ] External Links
+[ ] Section links
+[ ] Relative links
+[ ] Ordered and Unordered Lists
+[ ] Task lists
 
-1. Ordered item 1
-2. Ordered item 2
-3. Ordered item 3
+Here's a random ordered & unordered list:
+1. a
+2. b
+3. c
+- this
+- is
+- cool
 
-[Link](https://www.example.com)
-
-![Image](https://www.example.com/image.jpg)
-
-`Inline code`
-asd1
+A random block of code:
+`System.out.println("Hello World!");`
